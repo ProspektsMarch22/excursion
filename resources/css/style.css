@@ -31,13 +31,14 @@ h2 {
   font-size: 42px;
   font-weight: 300;
   color: #fff;
+  padding: 10px 0;
 }
 
 figure {
   display: flex;
   justify-content: center;
   width: 100%;
-  margin: 0 auto;
+  margin: 40px auto;
 }
 
 footer > p {
